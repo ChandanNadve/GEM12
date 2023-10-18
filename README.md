@@ -25,3 +25,8 @@ git branch -M main
 git remote add origin https://github.com/ChandanNadve/GEM12.git
 git push -u origin main
 ```
+
+### GIT Commands
+git remote add origin https://github.com/ChandanNadve/GEM12.git
+git branch -M main
+git push -u origin main
